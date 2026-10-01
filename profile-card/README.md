@@ -8,7 +8,7 @@ untuk tombol Like.
 
 1. Clone repository ini
    ```bash
-   git clone <link-repository-kamu>
+   git clone https://github.com/shou73637-eng/Interactive-Profile-Card-week-4.git
    cd profile-card
    ```
 2. Install dependency
